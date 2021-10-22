@@ -68,8 +68,9 @@ Para iniciá-lo, acesse:
 
 ## 💻 Projeto
 
-Este é um projeto desenvolvido durante a **[Next Level Week Heat](https://nextlevelweek.com/)**, apresentada dos dias 17 a 24 de outubro de 2021.
+DoWhile2021 é o layout de uma aplicação onde as pessoas podem compartilhar suas expectativas sobre o DoWhile.
 
+Este é um projeto desenvolvido durante a **[Next Level Week Heat](https://nextlevelweek.com/)**, apresentada dos dias 17 a 24 de outubro de 2021.
 
 ## 🔖 Layout
 
