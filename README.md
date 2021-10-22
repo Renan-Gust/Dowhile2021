@@ -1,6 +1,10 @@
 <h1 align="center">NLW Heat</h1>
 
 <p align="center">
+  <img alt="Letmeask" src="./frontend/src/assets/logo.svg" width="160px">
+</p>
+
+<p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
