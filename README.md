@@ -6,14 +6,16 @@
   <a href="#-licença">Licença</a>
 </p>
 
-<h1 align="center">
-    <img alt="dowhile2021" src="./frontend/src/assets/dowhile2021.png" />
-</h1>
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
   <img src="https://img.shields.io/static/v1?label=NLW&message=Heat&color=8257E5&labelColor=000000" alt="NLW Heat" />
 </p>
+
+<h1 align="center">
+    <img alt="dowhile2021" src="./frontend/src/assets/dowhile2021.png" />
+</h1>
+
+<br>
 
 ## ✨ Tecnologias
 
@@ -42,14 +44,14 @@ $ cd Dowhile2021
 
 Para iniciá-lo, siga os passos abaixo:
 ```bash
-## Yarn
+# Yarn
 # Instalar as dependências
 $ yarn
 
 # Iniciar o projeto
 $ yarn start
 
-## NPM
+# NPM
 # Instalar as dependências
 $ npm install
 
@@ -60,21 +62,11 @@ O app estará disponível no seu browser pelo endereço http://localhost:3000.
 
 Lembrando que será necessário iniciar o backend para utilizar a aplicação.
 
-Para iniciá-lo, siga os passos abaixo:
+Para iniciá-lo, acesse:
 
-> Obs.: Nesse projeto temos autenticação via OAuth com o GitHub
-
-- Clone o repositório e acesse a pasta;
-- Faça uma copia do arquivo `.env.example` para `.env` e preencha com as suas credenciais do GitHub;
-- Instale as dependências com `yarn`;
-- Executa as migrations com `yarn prisma migrate dev`;
-- Inicie o servidor com `yarn dev`;
-
-A aplicação pode ser acessada em [`localhost:4000`](http://localhost:4000).
+**[NLW Heat - Node.js](https://github.com/rocketseat-education/nlw-heat-node)**
 
 ## 💻 Projeto
-
-Letmeask é perfeito para criadores de conteúdos poderem criar salas de Q&A com o seu público, de uma forma muito organizada e democrática. 
 
 Este é um projeto desenvolvido durante a **[Next Level Week Heat](https://nextlevelweek.com/)**, apresentada dos dias 17 a 24 de outubro de 2021.
 
