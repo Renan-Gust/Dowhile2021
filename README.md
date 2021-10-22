@@ -49,7 +49,7 @@ Para iniciá-lo, siga os passos abaixo:
 $ yarn
 
 # Iniciar o projeto
-$ yarn start
+$ yarn dev
 
 # NPM
 # Instalar as dependências
